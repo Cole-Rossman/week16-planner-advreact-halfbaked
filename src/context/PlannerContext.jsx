@@ -61,8 +61,6 @@ const PlannerProvider = ({ children }) => {
         entries,
         addEntry,
         getEntry,
-        updateEntry,
-        deleteEntry,
       }}
     >
       {children}
